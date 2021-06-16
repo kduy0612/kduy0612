@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kduy0612
-- 👀 I’m interested in analyze data
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning data analyst on dataquest.io
 - 📫 How to reach me: nkduy1999@gmail.com
 
